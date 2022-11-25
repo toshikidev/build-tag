@@ -1,7 +1,6 @@
-<h3 align="center">📦🔖</h3>
-<h3 align="center">Build and Tag action</h3>
+# build2tag
 
-<p align="center"><a href="https://github.com/toshikidev/build2tag"><img alt="GitHub Actions status" src="https://github.com/toshikidev/build2tag/workflows/CI/badge.svg"></a> <a href="https://codecov.io/gh/toshikidev/build2tag/"><img src="https://badgen.now.sh/codecov/c/github/toshikidev/build2tag" alt="Codecov"></a></p>
+<a href="https://github.com/toshikidev/build2tag"><img alt="GitHub Actions status" src="https://github.com/toshikidev/build2tag/workflows/CI/badge.svg"></a> 
 
 ---
 
